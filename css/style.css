@@ -19,7 +19,7 @@ a {
 }
 
 footer{
-  background-color: #dcdcdc;
+  background-color: rgb(255, 255, 255);
   display: flex;
   justify-content: center;
   height: 70px;
@@ -30,3 +30,4 @@ footer{
   justify-content: space-around;
   margin: 15px 25px;
 }
+

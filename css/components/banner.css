@@ -5,14 +5,14 @@
   background-position: center;
   justify-content: center;
   align-items: center;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .banner-contents{
-border: 11px solid white;
+border: 5px solid rgba(98, 0, 255, 0.63);
     /* border-radius: 15px; */
     padding: 40px;
-    background-color: rgba(0,0,0, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
     text-align:center;
 }
 
@@ -27,7 +27,7 @@ border: 11px solid white;
 }
 
 .title-button{
-background-color: white;
+background-color: rgb(98, 0, 255, 0.63);
 color:black;
 padding: 10px;
 border-radius: 30px;
